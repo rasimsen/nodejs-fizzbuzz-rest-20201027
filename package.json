@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-fizzbuzz-rest-20201027",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasimsen/nodejs-fizzbuzz-rest-20201027.git"
+  },
+  "author": "Rasim SEN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasimsen/nodejs-fizzbuzz-rest-20201027/issues"
+  },
+  "homepage": "https://github.com/rasimsen/nodejs-fizzbuzz-rest-20201027#readme",
+  "devDependencies": {
+    "jest": "^26.6.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
